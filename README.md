@@ -1,6 +1,5 @@
-http://www.lightbend.com/activator/template/akka-http-slick-guice
-
 # akka-http-slick-guice
+http://www.lightbend.com/activator/template/akka-http-slick-guice
 
 - akka-http : REST
 - slick : database access & relational mapping
