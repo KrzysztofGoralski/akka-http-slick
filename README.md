@@ -58,7 +58,7 @@ response:
 
  request:
  ```
-   $  curl -XPOST 'localhost:9000/bank'  -d '{"name":"New Bank"}'
+   $  curl -d '{"name":"New Bank"}' -H "Content-Type: application/json" -X POST http://localhost:9000/bank
    ```
    
  response:
